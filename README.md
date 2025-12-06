@@ -4,7 +4,7 @@
 
 En este espacio busco muestrar mis proyectos, habilidades y experiencia como trainee en desarrollo web.
 
-[![Link](https://portafolio-digital-ashly.vercel.app)
+[Mi portafolio](https://portafolio-digital-ashly.vercel.app)
 
 
 ---
@@ -15,7 +15,7 @@ Este portafolio está desarrollado con HTML, CSS, TailwindCSS y JavaScript, y pr
 
 Incluye animaciones suaves, un diseño moderno dark-themed y optimización para dispositivos móviles.
 
-[![Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
+[Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
 
 ---
 
@@ -24,6 +24,8 @@ Incluye animaciones suaves, un diseño moderno dark-themed y optimización para 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -42,10 +44,23 @@ Incluye animaciones suaves, un diseño moderno dark-themed y optimización para 
 
 ## Imagenes del portafolio
 
-![Preview de la tarjeta interactiva](superior.png)
+![](1.png)
+
+![](2.png)
+
+![](3.png)
+
+![](4.png)
+
+![](5.png)
+
+![](6.png)
+
+![](7.png)
+
 
 ---
 
 
 ## Autores: 
-[![Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
+[Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
