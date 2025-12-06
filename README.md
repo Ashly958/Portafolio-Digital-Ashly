@@ -15,7 +15,7 @@ Este portafolio está desarrollado con HTML, CSS, TailwindCSS y JavaScript, y pr
 
 Incluye animaciones suaves, un diseño moderno dark-themed y optimización para dispositivos móviles.
 
-[Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
+[Este portafolio fue tomado de: https://github.com/OSSPhilippines/freefolio.git](https://github.com/OSSPhilippines/freefolio.git)
 
 ---
 
@@ -44,23 +44,16 @@ Incluye animaciones suaves, un diseño moderno dark-themed y optimización para 
 
 ## Imagenes del portafolio
 
-![](1.png)
-
-![](2.png)
-
-![](3.png)
-
-![](4.png)
-
-![](5.png)
-
-![](6.png)
-
-![](7.png)
-
+![](assets/1.png)
+![](public/2.png)
+![](images/3.png)
+![](assets/4.png)
+![](public/5.png)
+![](images/6.png)
+![](assets/7.png)
 
 ---
 
 
 ## Autores: 
-[Este portafolio fue tomado de:](https://github.com/OSSPhilippines/freefolio.git)
+[Este portafolio fue tomado de: https://github.com/OSSPhilippines/freefolio.git](https://github.com/OSSPhilippines/freefolio.git)
