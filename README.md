@@ -45,11 +45,11 @@ Este portafolio fue tomado de: [https://github.com/OSSPhilippines/freefolio.git]
 ## Imagenes del portafolio
 
 ![](assets/1.png)
-![](public/2.png)
-![](images/3.png)
+![](assets/2.png)
+![](assets/3.png)
 ![](assets/4.png)
-![](public/5.png)
-![](images/6.png)
+![](assets/5.png)
+![](assets/6.png)
 ![](assets/7.png)
 
 ---
